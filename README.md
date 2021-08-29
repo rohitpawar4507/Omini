@@ -1,2 +1,2 @@
-# Omini
+# OJ Code
 project code
